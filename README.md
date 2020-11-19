@@ -21,3 +21,5 @@ Using the state
 Use of properties
 
 Stylization
+
+Taught in: https://app.rocketseat.com.br/node/curso-react-js
